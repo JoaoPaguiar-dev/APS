@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Arvores do Cerrado</title>
+        <style type="text/CSS">
+		table {
+			border-collapse: collapse;
+		}
+		td {
+			border: 1px solid black;
+			padding: 10px;
+		}
+		img {
+			width: 60%;
+			height: auto;
+			margin: auto;
+		}
+        h1{
+            font-family: 'Lucida Sans';
+            text-align: center;
+            color: white;
+        }
+        body{
+               background-image: 100% ;
+               background-repeat: no-repeat;
+               background-size: cover;
+            }
+		a{
+			color: white;
+		}
+	</style>
+</head>
+<body>
+    <body background="Imagens trabalho/cerrado.jpg"></body>
+	<h1>1-Venha conhecer mais sobre o Cerrado Brasileiro:</h1>
+    <table>
+		<tr>
+			<td><a href="/"><img src="imagens trabalho/pequi.jpg" alt="pequi"></a></td>
+			<td><a href="/"></a><img src="imagens trabalho/aroeira.jpg" alt="aroeira"></a></td>
+			<td><a href="/"><img src="Imagens trabalho/buriti.jpg" alt="buriti"></a></td>
+			<td><a href="/"><img src="Imagens trabalho/jacarandas.jpg" alt="jacarandas"></a></td>
+		</tr>
+        <tr>
+			<td><a href="/"><img src="imagens trabalho/cagaita.jpg" alt="cagaita"></a></td>
+			<td><a href="/"><img src="imagens trabalho/paudoce.jpg" alt="pau doce"></a></td>
+			<td><a href="/"><img src="Imagens trabalho/galomeira.jpg" alt="galomeira"></a></td>
+			<td><a href="/"><img src="Imagens trabalho/embicu.jpg" alt="embicu"></a></td>
+		</tr>
+        <tr>
+            <td><a href="/"><img src="Imagens trabalho/capaiba.jpg" alt="capaiba"></a></td>
+            <td><a href="/"><img src="Imagens trabalho/buriti.jpg" alt="buriti"><a href="/"></td>
+            <td><a href="/"><img src="Imagens trabalho/perobas.jpg" alt="perobas"></a></td>
+            <td><a href="/"><img src="Imagens trabalho/sucupirabranca.jpg" alt="sucupira branca"></a></td>
+        </tr>
+	</table>
+</body>
+</html>
