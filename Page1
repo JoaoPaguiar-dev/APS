@@ -1,0 +1,58 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Reflorestamento do Cerrado</title>
+        <style type="text/CSS">
+            h1{
+                font-family: Arial;
+                text-align: center;
+                color: white;
+            }
+            h2{
+                font-family: 'Lucida Sans';
+                text-align: center;
+                font-size: "60%";
+                color: white;
+
+            }
+            h3{
+                font-family: monospace;
+                text-align: center;
+                color: white;
+
+            }
+            p{
+                font-family: 'Gill Sans';
+                text-align: center;
+                border-width: 6px;
+                border-color: white;
+                border-style: double;
+                color: white;
+
+            }
+            body{
+               background-image: 100% ;
+               background-repeat: no-repeat;
+               background-size:cover;
+            }
+            a{
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <body background="Imagens trabalho/cerrado.jpg"></body>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h1>Bem-vindo ao reflorestamento do cerrado, onde a sua contribuição pode<br>causar um grande impacto.</h1>
+        <h2>Desmatamento do Cerrado</h2>
+        <h3>O desmatamento do Cerrado é um fenômeno que registrou expressivo<br>nos últimos anos. Entre suas causas, destaca-se a abertura de novas áereas para a<br>agropecuária.</h3>
+        <body background=""></body>
+        <p><a href="Arvores do cerrado.html">Ajude aqui!</a><b>Press Enter</p>
+    </body>
+</html>
